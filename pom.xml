@@ -15,7 +15,7 @@
     
     <properties>
         <app.mainClass>org.spincast.realworld.App</app.mainClass>
-        <spincast.version>1.0.0</spincast.version>
+        <spincast.version>2.0.0</spincast.version>
     </properties>
 
 	<dependencies>
@@ -80,7 +80,7 @@
         <dependency>
             <groupId>com.auth0</groupId>
             <artifactId>java-jwt</artifactId>
-            <version>3.7.0</version>
+            <version>3.8.2</version>
         </dependency>
 
         <!--=================================== 
